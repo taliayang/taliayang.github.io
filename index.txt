@@ -2,7 +2,7 @@
 2:I[6484,[],""]
 3:I[562,[],""]
 4:I[2033,[],"ClientPageRoot"]
-5:I[8267,["974","static/chunks/app/page-2c99cd14cd722b56.js"],"default"]
+5:I[8267,["974","static/chunks/app/page-b148fd2d7976bf34.js"],"default"]
 8:I[5921,[],"OutletBoundary"]
 9:"$Sreact.suspense"
 b:I[5921,[],"ViewportBoundary"]
