@@ -9,3 +9,5 @@
 .portrait{scale:.9;transform-origin:center}
 
 .bio-heading h2{margin-bottom:20px}.cv-links{display:flex;flex-wrap:wrap;gap:10px;margin-bottom:24px}.cv-links a{display:inline-block;padding:10px 14px;border:1px solid #d5d7ca;border-radius:24px;font-size:13px;text-decoration:none;color:inherit}.cv-links a:hover{background:#e7fa63}.cv-links a:focus-visible{outline:2px solid #687d30;outline-offset:3px}
+
+.publication-name .publication-original{font-size:12px;line-height:1.6;color:#797d75;margin:8px 0 12px;font-weight:400}
